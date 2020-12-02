@@ -1,4 +1,4 @@
-defmodule Day2.PasswordPolicy do
+defmodule Day2.PasswordPolicyOld do
   defstruct minimum: nil,
             maximum: nil,
             letter: nil,
